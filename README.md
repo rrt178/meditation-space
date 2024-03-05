@@ -7,7 +7,7 @@
 | 姓名   | 学号       | GitHub                       | 分工       |
 | ------ | ---------- | ---------------------------- | ---------- |
 | 王浥榕 | 2112190116 | https://github.com/rrt178    | Android 端 |
-| 朱绪康 | 2111080210 | https://gitee.com/chudaonan  | 服务端     |
+| 朱绪康 | 2111080210 | https://github.com/chudaonan | 服务端     |
 | 蒋乐腾 | 2012190431 | https://github.com/jltwyd123 | 服务端     |
 
 4. 程序功能描述
